@@ -9,6 +9,6 @@ I have always believed that the peak of music dates back to before 2000 (I like 
 [Genius](https://genius.com/) is an online community where users browse, rate, and create annotations for lyrics to help explain their meaning and context.
 
 <p align="center">
-  <img src="images/genius_demo2.gif" width = 800>
+  <img src="Images/genius_demo2.gif" width = 800>
 </p>
 
